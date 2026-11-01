@@ -1,0 +1,16 @@
+{
+  "deneme": {
+    "surum": 2,
+    "ad": "1.0.1",
+    "dosya": "saat-1.0.1.sif",
+    "boy": 1332288,
+    "not": "Ilk uzaktan guncelleme denemesi",
+    "kimlikler": [
+      "48F6EE79EDAA",
+      "48F6EE79ED66"
+    ]
+  },
+  "kararli": {
+    "surum": 0
+  }
+}
