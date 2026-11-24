@@ -1,10 +1,10 @@
 {
   "deneme": {
-    "surum": 2,
-    "ad": "1.0.1",
-    "dosya": "saat-kilitli-1.0.1.sif",
+    "surum": 3,
+    "ad": "1.0.2",
+    "dosya": "saat-kilitli-1.0.2.sif",
     "boy": 1445888,
-    "not": "kilitli kanal ilk deneme",
+    "not": "kilitli kanal: indirme duzeltmesi",
     "kimlikler": [
       "1C2904BF5D34"
     ]
