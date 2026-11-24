@@ -1,0 +1,15 @@
+{
+  "deneme": {
+    "surum": 2,
+    "ad": "1.0.1",
+    "dosya": "saat-kilitli-1.0.1.sif",
+    "boy": 1445888,
+    "not": "kilitli kanal ilk deneme",
+    "kimlikler": [
+      "1C2904BF5D34"
+    ]
+  },
+  "kararli": {
+    "surum": 0
+  }
+}
